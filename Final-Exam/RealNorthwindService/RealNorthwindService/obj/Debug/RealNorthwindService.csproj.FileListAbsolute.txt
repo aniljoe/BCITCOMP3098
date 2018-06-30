@@ -1,0 +1,12 @@
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindService.dll.config
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindService.dll
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\RealNorthwindService.pdb
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\EntityFramework.dll
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\EntityFramework.SqlServer.dll
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\NorthWindEntities.dll
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\NorthWindEntities.pdb
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\EntityFramework.xml
+C:\WCF\RealNorthwindService\RealNorthwindService\bin\Debug\EntityFramework.SqlServer.xml
+C:\WCF\RealNorthwindService\RealNorthwindService\obj\Debug\RealNorthwindService.csprojResolveAssemblyReference.cache
+C:\WCF\RealNorthwindService\RealNorthwindService\obj\Debug\RealNorthwindService.dll
+C:\WCF\RealNorthwindService\RealNorthwindService\obj\Debug\RealNorthwindService.pdb

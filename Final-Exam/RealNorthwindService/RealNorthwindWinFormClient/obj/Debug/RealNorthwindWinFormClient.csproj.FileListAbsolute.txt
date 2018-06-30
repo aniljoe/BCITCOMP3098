@@ -1,0 +1,10 @@
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\bin\Debug\RealNorthwindWinFormClient.exe.config
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\bin\Debug\RealNorthwindWinFormClient.exe
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\bin\Debug\RealNorthwindWinFormClient.pdb
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\obj\Debug\RealNorthwindWinFormClient.csprojResolveAssemblyReference.cache
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\obj\Debug\RealNorthwindWinFormClient.AddEdit.resources
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\obj\Debug\RealNorthwindWinFormClient.ProductSearch.resources
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\obj\Debug\RealNorthwindWinFormClient.Properties.Resources.resources
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\obj\Debug\RealNorthwindWinFormClient.csproj.GenerateResource.Cache
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\obj\Debug\RealNorthwindWinFormClient.exe
+C:\WCF\RealNorthwindService\RealNorthwindWinFormClient\obj\Debug\RealNorthwindWinFormClient.pdb

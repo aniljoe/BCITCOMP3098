@@ -1,0 +1,10 @@
+C:\WCF\NorthWindEntities\bin\Debug\NorthWindEntities.dll.config
+C:\WCF\NorthWindEntities\bin\Debug\NorthWindEntities.dll
+C:\WCF\NorthWindEntities\bin\Debug\NorthWindEntities.pdb
+C:\WCF\NorthWindEntities\bin\Debug\EntityFramework.dll
+C:\WCF\NorthWindEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\WCF\NorthWindEntities\bin\Debug\EntityFramework.xml
+C:\WCF\NorthWindEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\WCF\NorthWindEntities\obj\Debug\NorthWindEntities.dll
+C:\WCF\NorthWindEntities\obj\Debug\NorthWindEntities.pdb
+C:\WCF\NorthWindEntities\obj\Debug\NorthWindEntities.csprojResolveAssemblyReference.cache

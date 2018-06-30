@@ -1,0 +1,5 @@
+C:\WCF\RealNorthwindClient\bin\Debug\RealNorthwindClient.exe.config
+C:\WCF\RealNorthwindClient\bin\Debug\RealNorthwindClient.exe
+C:\WCF\RealNorthwindClient\bin\Debug\RealNorthwindClient.pdb
+C:\WCF\RealNorthwindClient\obj\Debug\RealNorthwindClient.exe
+C:\WCF\RealNorthwindClient\obj\Debug\RealNorthwindClient.pdb
