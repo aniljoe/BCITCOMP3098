@@ -1,0 +1,25 @@
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\bin\Debug\CustomerClient.exe.config
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\bin\Debug\CustomerClient.exe
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\bin\Debug\CustomerClient.pdb
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\obj\Debug\CustomerClient.CustomerClient.resources
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\obj\Debug\CustomerClient.Properties.Resources.resources
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\obj\Debug\CustomerClient.csproj.GenerateResource.Cache
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\obj\Debug\CustomerClient.exe
+C:\Users\Krishnamurthi\Desktop\Final Run\CustomerServices\CustomerClient\obj\Debug\CustomerClient.pdb
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\CustomerClient.exe.config
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\CustomerClient.exe
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\CustomerClient.pdb
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\EntityFramework.dll
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\EntityFramework.xml
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\obj\Debug\CustomerClient.csprojResolveAssemblyReference.cache
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\obj\Debug\CustomerClient.CustomerClient.resources
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\obj\Debug\CustomerClient.Properties.Resources.resources
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\obj\Debug\CustomerClient.csproj.GenerateResource.Cache
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\obj\Debug\CustomerClient.exe
+C:\Users\Krishnamurthi\Desktop\Cust\CustomerServices\CustomerServices\CustomerClient\obj\Debug\CustomerClient.pdb
